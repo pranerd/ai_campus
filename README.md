@@ -1,2 +1,2 @@
-# ai_campus_hw01
-homework01 of openmmlab campus
+# ai_campus
+homework of openmmlab ai campus
