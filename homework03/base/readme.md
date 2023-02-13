@@ -21,4 +21,4 @@
 
 ### 推理速度
 在超算云rtx3090的速度为
-![pred] (https://user-images.githubusercontent.com/19358928/218496384-50fe0263-3255-46c5-b805-cd87163f9352.png)
+![pred](https://user-images.githubusercontent.com/19358928/218496384-50fe0263-3255-46c5-b805-cd87163f9352.png)
